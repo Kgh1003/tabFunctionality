@@ -59,3 +59,7 @@ To change the tab labels or content:
 ## License
 
 This project is provided for educational and demonstration purposes.
+
+## Project URL
+
+https://roadmap.sh/projects/simple-tabs
